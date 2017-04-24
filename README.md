@@ -4,7 +4,9 @@ Vous en avez marre des élections, vous navez pas l'age de voter ou vous ne supp
 
 ![alt tag](https://github.com/leandrg/noLitics/blob/master/readmeImage/screen.png)
 
-La première version ne conserne que pour l'instant twitter mais des mises à jour devraient vite arriver.
+![alt tag](https://github.com/leandrg/noLitics/blob/master/readmeImage/fb.png)
+
+La première version ne conserne que pour l'instant facebook et twitter mais des mises à jour devraient vite arriver.
 Si vous avez des remarques, ou même des mots clès à rajouter, n'hésitez pas à me faire signe.
 
 # Installation
@@ -26,3 +28,7 @@ Exemples
   tag=sexy (base)
   tag=funny
   tag=big+bird
+
+
+# version 2:
+Correction d'un bug dans les réponses aux tweets et implémentation sur facebook.
