@@ -5,7 +5,7 @@
 // Login   <leandr_g@epitech.eu>
 //
 // Started on  Mon Apr 24 10:10:03 2017 Gaëtan Léandre
-// Last update Mon Apr 24 10:31:36 2017 Gaëtan Léandre
+// Last update Mon Apr 24 11:32:50 2017 Gaëtan Léandre
 //
 
 var addImage = function(found)
@@ -29,7 +29,6 @@ var remplace = function()
     var found;
     var img;
     var txt;
-    var card;
 
     for (var i = 0; i < aTags.length; i++) {
       if (aTags[i] && !(aTags[i].classList.contains("noLitics")) && isIn(removeDiacritics(aTags[i].textContent.toUpperCase()))) {
@@ -39,7 +38,6 @@ var remplace = function()
             addImage(found);
             txt = found.getElementsByClassName("js-tweet-text-container")[0];
             img = found.getElementsByClassName("AdaptiveMediaOuterContainer")[0];
-            card = found.getElementsByClassName("AdaptiveMediaOuterContainer")[0];
 
             if (txt)
                 found.removeChild(txt);
