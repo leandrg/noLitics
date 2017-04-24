@@ -11,6 +11,9 @@ Si vous avez des remarques, ou même des mots clès à rajouter, n'hésitez pas 
 
 # Installation
 
+L'extension est maintenant sur le google web store. Voici le lien:
+https://chrome.google.com/webstore/detail/nolitics/bmbeggfjnibgbmlhljaoephbinmplbfi
+
 L'installation est très simple. Après avoir télécharger l'extension sur votre ordinateur, rendez vous sur le lien "chrome://extensions" depuis votre navigateur google chrome.
 
 Cochez la case "Mode développeur" qui vous permettra d'ajouter des extensions qui ne viennent pas du marcket google.
