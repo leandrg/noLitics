@@ -1,6 +1,6 @@
 # noLitics
 
-Vous en avez marre des élections, vous navez pas l'age de voter ou vous ne supportez pas la surmédiatisation qui l'entoure? Alors cette extension chrome est faite pour vous. Après une installation très simple, l'application cachera automatiquement tout les posts parlant des elections et les remplacera par des gifs alléatoires.
+Vous en avez marre des élections, vous n'avez pas l'âge de voter ou vous ne supportez pas la surmédiatisation qui l'entoure? Alors cette extension chrome est faite pour vous. Après une installation très simple, l'application cachera automatiquement tout les posts parlant des élections et les remplacera par des gifs aléatoires.
 
 ![alt tag](https://github.com/leandrg/noLitics/blob/master/readmeImage/screen.png)
 
